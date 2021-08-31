@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @MaceroniMan
-- 👀 I’m interested in Web Design, Backend, Python, Node.JS, C++, and JavaScript
-- 🌱 I’m currently learning the C++ basics, Web Game Making, as well as lots of other stuff.
+- I’m interested in Web Design, Backend, Python, Node.JS, C++, and JavaScript
+- I’m currently learning the C++ basics, Web Game Making, as well as lots of other stuff.
