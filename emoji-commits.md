@@ -15,6 +15,8 @@ Please note that these rules are nothing more than a feeble attempt at standardi
  - 🚀 New Feature
  - ✨ Bug Fixes
  - 🎆 New Features & Bug Fixes
+ - 💣 Groundbreaking Change
+ - 🧵 Very Small Changes (this is typically just used for typos)
 
 ## Releases
 
